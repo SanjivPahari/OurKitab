@@ -14,6 +14,10 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 - Sanjiv Pahari
 
+## Screenshots of Site
+
+![Screenshots](ourkitab%20screenshot%2Fadmin%20panel%20home.png)
+
 ## DATABASE FILES
 
 **users.sql**
