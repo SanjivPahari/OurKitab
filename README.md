@@ -43,10 +43,11 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 ![Screenshots](ourkitab%20screenshot%2Fadmin%20panel.png)
 
+#### Teacher Panel:
 
 ![Screenshots](ourkitab%20screenshot%2Fteacher%20panel.png)
 
-
+#### Admin Panel:
 
 ![Screenshots](ourkitab%20screenshot%2Fadmin%20panel%20home.png)
 
