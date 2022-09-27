@@ -14,6 +14,15 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 - Sanjiv Pahari
 
+## DATABASE FILES
+
+**users.sql**
+> This contains users: admin and teachers details.
+
+**book.sql**
+> This contains all ccourses informations like contnet content, lessons etc.
+
+
 ## Features
 
 - Courses from Class 8 to 12
