@@ -26,15 +26,17 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 ### Course:
 
-![Screenshots](ourkitab%20screenshot%2Flesson%20course.png)
 
 ![Screenshots](ourkitab%20screenshot%2Fbook%20lessons.png)
+
+![Screenshots](ourkitab%20screenshot%2Flesson%20course.png)
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20exercises.png)
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20notes.png)
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20videos.png)
+
 
 
 ### Teacher & Admin Panel:
