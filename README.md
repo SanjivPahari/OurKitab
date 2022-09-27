@@ -16,29 +16,14 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 ## Screenshots of Site
 
-![Screenshots](ourkitab%20screenshot%2Fadmin%20panel%20home.png)
+![Screenshots](ourkitab%20screenshot%2Ftheme%20change.png)
 
-![Screenshots](ourkitab%20screenshot%2Fadmin%20panel.png)
+![Screenshots](ourkitab%20screenshot%2Fsearch%20feature.png)
 
-![Screenshots](ourkitab%20screenshot%2Fbook%20lessons.png)
-
-![Screenshots](ourkitab%20screenshot%2Fcourse%20create%20feature.png)
-
-![Screenshots](ourkitab%20screenshot%2Fedit%20course%20feature.png)
-
-![Screenshots](ourkitab%20screenshot%2Fedit%20exercises.png)
-
-![Screenshots](ourkitab%20screenshot%2Fedit%20note.png)
-
-![Screenshots](ourkitab%20screenshot%2Fedit%20videos.png)
-
-![Screenshots](ourkitab%20screenshot%2Fhomepage%20ourkitab.png)
-
-![Screenshots](ourkitab%20screenshot%2Fimage%20upload%20feature.png)
-
-![Screenshots](ourkitab%20screenshot%2Finsert%20new%20user.png)
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20course.png)
+
+![Screenshots](ourkitab%20screenshot%2Fbook%20lessons.png)
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20exercises.png)
 
@@ -46,13 +31,47 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20videos.png)
 
-![Screenshots](ourkitab%20screenshot%2Fsearch%20feature.png)
 
-![Screenshots](ourkitab%20screenshot%2Fsubject%20list.png)
+
+
+![Screenshots](ourkitab%20screenshot%2Fadmin%20panel.png)
+
+![Screenshots](ourkitab%20screenshot%2Fadmin%20panel%20home.png)
+
+
+
+
+
+![Screenshots](ourkitab%20screenshot%2Fcourse%20create%20feature.png)
+
+![Screenshots](ourkitab%20screenshot%2Fedit%20course%20feature.png)
+
+
+
+![Screenshots](ourkitab%20screenshot%2Fedit%20exercises.png)
+
+![Screenshots](ourkitab%20screenshot%2Fedit%20note.png)
+
+![Screenshots](ourkitab%20screenshot%2Fedit%20videos.png)
+
+
+![Screenshots](ourkitab%20screenshot%2Fhomepage%20ourkitab.png)
+
+
+
+
+
+
+
+
 
 ![Screenshots](ourkitab%20screenshot%2Fteacher%20panel.png)
 
-![Screenshots](ourkitab%20screenshot%2Ftheme%20change.png)
+
+![Screenshots](ourkitab%20screenshot%2Fimage%20upload%20feature.png)
+
+![Screenshots](ourkitab%20screenshot%2Finsert%20new%20user.png)
+
 
 ![Screenshots](ourkitab%20screenshot%2Fupdate%20database.png)
 
