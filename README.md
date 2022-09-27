@@ -40,6 +40,24 @@ This site was made up of using HTML, PHP, CSS, Bootstrap ( Bootwatch: Cosmo ) , 
 
 ![Screenshots](ourkitab%20screenshot%2Flesson%20course.png)
 
+![Screenshots](ourkitab%20screenshot%2Flesson%20exercises.png)
+
+![Screenshots](ourkitab%20screenshot%2Flesson%20notes.png)
+
+![Screenshots](ourkitab%20screenshot%2Flesson%20videos.png)
+
+![Screenshots](ourkitab%20screenshot%2Fsearch%20feature.png)
+
+![Screenshots](ourkitab%20screenshot%2Fsubject%20list.png)
+
+![Screenshots](ourkitab%20screenshot%2Fteacher%20panel.png)
+
+![Screenshots](ourkitab%20screenshot%2Ftheme%20change.png)
+
+![Screenshots](ourkitab%20screenshot%2Fupdate%20database.png)
+
+![Screenshots](ourkitab%20screenshot%2Fuser%20database%20update.png)
+
 ## DATABASE FILES
 
 **users.sql**
