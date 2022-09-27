@@ -1,0 +1,41 @@
+Class id : 12
+Class name: Class 12
+Subject id: 1
+Subject: Physics
+Chapter id: 1
+Chapter : WAVE AND OPTICS
+Lesson id: 1
+Lesson: Wave Motion
+
+
+NOTES:
+
+A wave is the disturbance produce in the medium from an equilibrium condition which travels with the finite velocity in the region of space.
+Wave motion transfers energy from one point to another, which may or may not displace particles of the medium.
+If the vibrating particles of the medium oscillate to the same direction of propagation of the wave is called a longitudinal wave.
+If the wave travels from one region to another region is called a progressive wave. 
+Transverse wave and longitudinal wave are both progressive wave.
+
+
+
+
+EXERCISE:
+
+What do you mean by a wave ?
+A wave is the disturbance produce in the medium from an equilibrium condition which travels with the finite velocity in the region of space.
+
+What are the types of wave motion ?
+The types of wave motion are:
+1. Transverse wave motion
+2. Longitudinal wave motion
+
+What do you mean by Longitudinal wave motion ?
+If the particles of the medium vibrate to the direction of the propagation of the wave, then the wave motion is called longitudinal wave motion.
+
+
+Videos:
+
+https://www.youtube.com/watch?v=H0wUATlhhfk
+https://www.youtube.com/watch?v=8Wj4lnz9UOk
+https://www.youtube.com/watch?v=JdKocjkWlBQ
+ 
